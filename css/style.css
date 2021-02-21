@@ -856,6 +856,18 @@ header nav ul li a i.fas.fa-language {
   object-fit: cover;
   -o-object-fit: cover;
 }
+.single-dance-data .img .new-tag {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  background: #0772ca;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 0 4px 4px 0;
+  font-size: 12px;
+  font-weight: 600;
+}
 .single-dance-data .img .featured-tag {
   position: absolute;
   left: 0;
