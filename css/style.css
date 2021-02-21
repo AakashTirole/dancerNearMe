@@ -572,7 +572,12 @@ header nav ul li a i.fas.fa-language {
   /* height: calc(100vh - 125px); */
   height: 100vh;
 }
-
+.owl-carousel .owl-item img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .home-slider .text-searchbar {
   position: absolute;
   right: 0;
